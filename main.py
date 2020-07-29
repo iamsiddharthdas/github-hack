@@ -1,7 +1,7 @@
 import os
 
 ## Number of days you want to make commits
-for i in range(10, 50):
+for i in (10, 20, 30, 40, 50, 60, 70, 80, 90, 100):
     d = str(i) + " day ago"
     ## Open a text file and modify it
     with open("bot.txt", "a") as file:
