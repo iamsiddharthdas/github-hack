@@ -4,4 +4,4 @@
   
 <br/>
 
-(This is solely for educational purposes and should not to be unethically used to take unfair advantage)
+<This is solely for educational purposes and should not to be unethically used to take unfair advantage>
